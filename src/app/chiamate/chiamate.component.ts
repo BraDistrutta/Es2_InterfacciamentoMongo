@@ -9,7 +9,7 @@ export class ChiamateComponent {
   title = 'Chiamate';
 
   async getData() {
-    const response = await fetch('http://localhost:8888/api/getData');
+    const response = await fetch("http://localhost:8888/api/getData");
     const data = await response.json();
     console.log(data);
   }
