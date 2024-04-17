@@ -1,0 +1,11 @@
+{"_id":7,"nome":"Iverson","punti":2547,"squadra":"Celtics","eta":30,"conference":"ovest","ruolo":["play","guardia"]}
+{"_id":6,"nome":"Oneal","punti":3278,"squadra":"Lakers","eta":37,"conference":"est","ruolo":["centro","ala grande"]}
+{"_id":9,"nome":"Durant","punti":1893,"squadra":"Bulls","eta":21,"conference":"est","ruolo":["guardia","play"]}
+{"_id":5,"nome":"Mutombo","punti":1238,"squadra":"Rockets","eta":27,"conference":"ovest","infortuni":[{"anno":1995,"tipo":"mano","mesi_out":2}],"ruolo":["centro"]}
+{"_id":10,"nome":"Bryant","punti":4089,"squadra":"Lakers","eta":27,"conference":"est","ruolo":["ala piccola","play"]}
+{"_id":2,"nome":"Jordan","punti":4234,"squadra":"Bulls","eta":29,"conference":"est","infortuni":[{"anno":1999,"tipo":"ginocchio","mesi_out":3}],"ruolo":["play","guardia","ala piccola"]}
+{"_id":4,"nome":"Johnson","punti":2984,"squadra":"Lakers","eta":32,"conference":"est","infortuni":[{"anno":1995,"tipo":"mano","mesi_out":2},{"anno":1999,"tipo":"gomito","mesi_out":1},{"anno":1997,"tipo":"caviglia","mesi_out":2}],"ruolo":["ala grande"]}
+{"_id":1,"nome":"Rodman","punti":234,"squadra":"Bulls","eta":26,"conference":"est","infortuni":[{"anno":2012,"tipo":"ginocchio","mesi_out":6},{"anno":2010,"tipo":"caviglia","mesi_out":1}],"ruolo":["centro","ala grande"]}
+{"_id":11,"nome":"James","punti":3245,"squadra":"Lakers","eta":19,"conference":"est","infortuni":[{"anno":2012,"tipo":"gomito","mesi_out":4},{"anno":2010,"tipo":"polso","mesi_out":2}],"ruolo":["ala grande"]}
+{"_id":8,"nome":"Drexler","punti":3120,"squadra":"Rockets","eta":27,"conference":"ovest","infortuni":[{"anno":1998,"tipo":"piede","mesi_out":4},{"anno":1997,"tipo":"polpaccio","mesi_out":2}],"ruolo":["ala piccola","ala grande"]}
+{"_id":3,"nome":"Bird","punti":3321,"squadra":"Celtics","eta":30,"conference":"ovest","infortuni":[{"anno":2012,"tipo":"piede","mesi_out":3},{"anno":2000,"tipo":"clavicola","mesi_out":2}],"ruolo":["ala piccola","ala grande"]}
